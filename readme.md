@@ -1,53 +1,3 @@
-<h1 align="center">
-  AI Dancer
-  <br> <br>
-   <img src="assets/1.gif" />
-  <br>
-</h1>
-
-<p align="center">  
-	<img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg">
-    <img src="https://img.shields.io/badge/Tensorflow-2.1+-green.svg">
-    <img src="https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github">
- <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/license-MIT-blue.svg"></a>
-</p>
-
-<a href="https://devlibrary.withgoogle.com/products/ml/repos/SuyashSonawane-AI-Dancer"> <h4 align="center">
-<img src="assets/google-dev-logo.png" width="60"> <br />
-Featured on Google Developer Library 
-</h4> </a>
-
-<p align="center">
-A Long Short Term Memory Neural Network and Style GAN based Dancer that can generate new dance steps. A short summary of the project: Neural Network 🧠 sees 👀 dancing videos 💃, tries to learn and create its own dance steps 🕺
-</p>
-
-## Table of Contents
-
-
-- [Table of Contents](#table-of-contents)
-- [Getting Started](#getting-started)
-- [Dancer with LSTM](#dancer-with-lstm)
-  - [Data Format](#data-format)
-  - [Adding Training Data](#adding-training-data)
-  - [Generating new Dance Moves](#generating-new-dance-moves)
-- [Generating new Images with GAN](#generating-new-images-with-gan)
-  - [Data Format](#data-format-1)
-  - [Training GAN](#training-gan)
-  - [Generating Images](#generating-images)
-  - [Generating Video](#generating-video)
-- [Extras](#extras)
-  - [Future Improvements](#future-improvements)
-  - [Contributing](#contributing)
-  - [Author](#author)
-  - [License](#license)
-  - [Acknowledgments](#acknowledgments)
-
-# Explanation
-<p align="center"> 
-   <a href="https://www.youtube.com/watch?v=kDGQDVmToVI"><img src="https://img.youtube.com/vi/kDGQDVmToVI/0.jpg"></a> <br/>
-</p>
-
-
 
 ## Getting Started
 
@@ -174,20 +124,3 @@ this will create `out.mp4` file with the images as a video file.
 1. Improve the GAN and the Neural Network to generate more realistic images
 2. Deploying project to Web, to generate new moves on the go.
 
-## Contributing
-
-This is a opensource project, if you want to contribute feel free to create a pull request.
-
-## Author
-
-**Suyash Sonawane** - [Github](https://github.com/suyashsonawane) | [LinkedIn](https://www.linkedin.com/in/suyash-sonawane-44661417b/)
-
-For any feedback and suggestions mail me at [Suyash Sonawane](mailto:suyashsonawane005@gmail.com)
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
-## Acknowledgments
-
-- YouTube video by @carykh
