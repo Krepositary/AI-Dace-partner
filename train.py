@@ -1,11 +1,4 @@
 
-'''
-@author: Suyash Sonawane [github/suyashsonawane]
-
-This is a python script for generating / training the model on the training data in the `data` folder
-Logs will be written in the `logs` and the improved weights will stored in the `weights` folder
-
-'''
 
 import pandas as pd  # For loading data
 import numpy as np  # For preprocessing data
