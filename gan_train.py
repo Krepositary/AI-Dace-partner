@@ -1,9 +1,4 @@
-'''
-@author: Suyash Sonawane [github/suyashsonawane]
-
-This is a python script for training the GAN based on our images which are stored in `images` directory, checkpoints are saved 
-in `training_checkpoints` directory
-'''
+pip install joblib
 
 import datetime
 import tensorflow as tf
