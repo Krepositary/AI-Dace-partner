@@ -1,9 +1,5 @@
-'''
-@author: Suyash Sonawane [github/suyashsonawane]
+pip install joblib
 
-This is a python script for  generating new dance images from the trained model which will be stored in `new_images` directory, checkpoints are loaded from 
- `training_checkpoints` directory
-'''
 
 import datetime
 import tensorflow as tf
