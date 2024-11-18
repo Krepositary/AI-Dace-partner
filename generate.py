@@ -1,11 +1,5 @@
+pip install joblib
 
-'''
-@author: Suyash Sonawane [github/suyashsonawane]
-
-This is a python script for generating new dance steps from the trained model, weights are loaded from `weights` folder
-The output is saved in csv format named `new_moves`
-
-'''
 import sys  # For command line args
 import pandas as pd  # For saving data
 import numpy as np  # For preprocessing data
