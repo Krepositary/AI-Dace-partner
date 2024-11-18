@@ -1,0 +1,9 @@
+streamlit
+opencv-python
+pillow
+tensorflow  # or pytorch, depending on the model used
+numpy
+PILLOW
+scikit-image
+requests
+matplotlib
